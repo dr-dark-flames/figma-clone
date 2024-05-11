@@ -1,8 +1,9 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/oKIThIihv60" target="_blank">
-      <img src="https://github.com/JavaScript-Mastery-Pro/figma-ts/assets/151519281/e03dc22d-0f45-464b-9dc3-f01f07906bee" alt="Project Banner">
+      <img src="https://github.com/dr-dark-flames/figma-clone/assets/12224035/9ca480d7-e4d9-40b3-abc4-cc6c186345d5" alt="Project Banner">
     </a>
+
   <br />
 
   <div>
