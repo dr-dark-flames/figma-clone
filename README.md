@@ -1,9 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/oKIThIihv60" target="_blank">
-      <img src="https://github.com/dr-dark-flames/figma-clone/assets/12224035/9ca480d7-e4d9-40b3-abc4-cc6c186345d5" alt="Project Banner">
-    </a>
-
+    <img src="https://github.com/dr-dark-flames/figma-clone/assets/12224035/9ca480d7-e4d9-40b3-abc4-cc6c186345d5" alt="Project Banner">
   <br />
 
   <div>
